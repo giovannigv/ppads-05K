@@ -19,44 +19,30 @@ esperadas do sistema.
 ## Definições, abreviações e outros termos do domínio do problema
 
 * Hackathon
-* Definição 2
-* Definição 3
-* etc.
+* Head Hunter
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Depende do resultado do Hackathon
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Jovens com vontade de inovar e trabalhar
+* Banco do Brasil
 
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Banco do Brasil
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Depende do resultado do Hackathon
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Voltado a area de inovação da empresa
+* Precisa ser uma realidade da empresa
 
 ## Protótipos de tela
 
